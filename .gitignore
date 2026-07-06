@@ -1,0 +1,10 @@
+# Sakrij API ključeve i konfiguraciju
+.env
+
+# Sakrij Python keš fajlove (da ne zatrpavaju GitHub)
+__pycache__/
+*.pyc
+
+# Sakrij virtuelno okruženje 
+venv/
+.venv/
